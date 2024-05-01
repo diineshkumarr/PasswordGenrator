@@ -85,6 +85,7 @@ function App() {
       onChange={() => {setchar((e) => !e)}}
        />
        <label className='text-white px-3'>Character</label>
+       
     </div>
     </div>
   )
